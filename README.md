@@ -4,7 +4,7 @@
 
 
 
-#### Written by TMRSWRR 
+#### modded by trhacknon
 #### Version 1.0.0
 All in one tools for **XSS PAYLOAD GENERATOR -XSS SCANNER-XSS DORK FINDER**
 
@@ -41,7 +41,7 @@ Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
 ### Installation with requirements.txt
 
 ```bash
-git clone https://github.com/capture0x/XSS-LOADER/
+git clone https://github.com/trhacknon/XSS-LOADER/
 cd XSS-LOADER
 pip3 install -r requirements.txt
 ```
@@ -154,7 +154,7 @@ Results will be saved in "dork.txt" after scanning.
 
 If you want to use tool for python3 installed on Windows download below link:
 
-https://github.com/capture0x/XSS-LOADER-for-WINDOWS
+https://github.com/trhacknon/XSS-LOADER-for-WINDOWS
 
 
 ## Bugs and enhancements
